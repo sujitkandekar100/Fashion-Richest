@@ -1,4 +1,4 @@
-## Fashion-Richest.
+## FUTURE READY TALENT PROJECT.
 #Here I create a fashion store web apps named Fashion-Rishest that helps the customer to find good product in cheap rates and genuine product.
 
 ## azure deploy  link :https://red-sand-085a2dc10.1.azurestaticapps.net/
