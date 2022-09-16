@@ -49,11 +49,3 @@
 			});
 		}
 
-// data color
-jQuery("[data-color]").each(function () {
-		jQuery(this).css('color', jQuery(this).attr('data-color'));
-});
-// data background color
-jQuery("[data-bgcolor]").each(function () {
-	jQuery(this).css('background-color', jQuery(this).attr('data-bgcolor'));
-});
